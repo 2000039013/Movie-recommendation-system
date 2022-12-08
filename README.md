@@ -1,4 +1,4 @@
-# Entertainment Hub
+# Movie-recommendation-system
 <table>
 <tr>
 <td>
@@ -9,4 +9,4 @@
 
 npm install @material-ui/core @material-ui/icons axios
 
-![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
+![Screenshot (560)](https://user-images.githubusercontent.com/108077892/206460056-a73c06d3-1133-46e3-9959-6965ddfff271.png)
